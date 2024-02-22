@@ -1,5 +1,6 @@
 [deps]
 BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
 BlindedChallenge = "3d058121-d330-49a2-93bc-b427c4c6d49d"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 Effort = "ace19e24-02c2-4bce-bc41-b57e89c0fc53"
